@@ -1,6 +1,6 @@
 # Dropbox
 
-*Dropbox* is a tip calculator application for iOS.
+*Dropbox* is a Dropbox user flow prototype for iOS.
 
 Submitted by: *Omari Brandt*
 
@@ -30,7 +30,7 @@ NOTE: You may need to change the dot color since the default dot color is white 
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://github.com/omari1914/Tip-Calculator/blob/master/obrandtTipDemo.gif" target="_blank"><img src='https://github.com/omari1914/Tip-Calculator/blob/master/obrandtTipDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="" target="_blank"><img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
